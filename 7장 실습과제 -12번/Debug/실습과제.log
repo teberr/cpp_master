@@ -1,0 +1,4 @@
+﻿  CMyStringEx.cpp
+c:\users\yms49\source\repos\실습과제 9번이어서\cmystringex.cpp(8): warning C4101: 'index' :참조되지 않은 지역 변수입니다.
+  실습과제.vcxproj -> C:\Users\yms49\source\repos\실습과제 9번이어서\Debug\실습과제.exe
+  실습과제.vcxproj -> C:\Users\yms49\source\repos\실습과제 9번이어서\Debug\실습과제.pdb (Partial PDB)

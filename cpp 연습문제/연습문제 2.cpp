@@ -91,16 +91,16 @@ void calculate(string a) {
 	}
 		
 		
-		cout << findex;
+	///	cout << findex;
 		num1 = a.substr(0, findex);
 		temp = a.at(findex);
 		num2 = a.substr(findex + 1);
 		num1 = trim(num1);
 		num2 = trim(num2);
 		
-		cout << "num1: "<< num1 << endl;
-		cout << "temp: "<< temp << endl;
-		cout << "num2: "<< num2 << endl;
+	///	cout << "num1: "<< num1 << endl;
+	///	cout << "temp: "<< temp << endl;
+	///	cout << "num2: "<< num2 << endl;
 
 		if (count==0)
 			plusab(stoi(num1), stoi(num2));
